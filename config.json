@@ -1,0 +1,4 @@
+{
+  "tts_coqui_en_large_tf": "Models/STT/coqui/model.tflite",
+  "tts_coqui_en_large_scorer": "tModels/STT/coqui/huge-vocabulary.scorer"
+}
